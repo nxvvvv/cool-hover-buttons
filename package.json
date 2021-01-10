@@ -1,0 +1,19 @@
+{
+  "name": "cool-hover-buttons",
+  "version": "1.0.0",
+  "description": "A cool hover button for websites!",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/cool-hover-buttons.git"
+  },
+  "author": "Navaneeth K M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/cool-hover-buttons/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/cool-hover-buttons#readme"
+}
