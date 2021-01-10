@@ -15,5 +15,5 @@ Cool hover buttons script for websites.
 
 ## License
 
-This repo is under the GNU General Public License v3.0.<br>
+This repo is under the MIT License.<br>
 See [LICENSE](https://github.com/navaneethkm004/cool-hover-buttons/blob/master/LICENSE) File.
